@@ -1,0 +1,5 @@
+# Project exclude paths
+/node_modules/
+/script.d.ts
+/script.js
+/script.js.map
